@@ -2,6 +2,7 @@
 title = "Репозитории"
 weight = 40
 description = "Краткое описание моих репозиториев."
+aliases = ["repos"]
 
 [taxonomies]
 tags = ["систематизация"]
